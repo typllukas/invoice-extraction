@@ -1,0 +1,29 @@
+[project]
+name = "invoice-extraction"
+version = "0.1.0"
+description = "Extracts structured data from a received invoice with a multimodal model and checks it in code"
+requires-python = ">=3.13"
+dependencies = [
+    "anthropic>=1.11,<2",
+    "fastapi>=0.142",
+    "pydantic>=2.13,<3",
+    "python-multipart>=0.0.32",
+    "uvicorn>=0.54",
+]
+
+[project.scripts]
+extract-invoice = "invoice_extraction.cli:main"
+evaluate-extraction = "invoice_extraction.evaluation:main"
+
+[dependency-groups]
+dev = [
+    "mypy==2.3.1",
+    "pillow>=12.3",
+    "pypdfium2>=5.13",
+    "pytest==9.1.1",
+    "ruff==0.16.9",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
