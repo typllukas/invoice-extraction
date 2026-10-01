@@ -1,0 +1,38 @@
+[
+ {
+  "quality": "clean",
+  "invoice_number": "2026-000236",
+  "seconds": 297.8,
+  "error": null,
+  "outcomes": {
+   "supplier_name": "correct",
+   "supplier_company_id": "correct",
+   "supplier_vat_id": "correct",
+   "invoice_number": "correct",
+   "variable_symbol": "correct",
+   "issue_date": "wrong",
+   "tax_point_date": "wrong",
+   "due_date": "wrong",
+   "vat_lines": "missing",
+   "total_gross_amount": "correct",
+   "currency": "wrong"
+  },
+  "invoice": {
+   "supplier_name": "Vzorová dodavatelská s.r.o.",
+   "supplier_company_id": "87654326",
+   "supplier_vat_id": "CZ87654326",
+   "invoice_number": "2026-000236",
+   "variable_symbol": "2026000236",
+   "issue_date": "1020-10-20",
+   "tax_point_date": "0920-09-20",
+   "due_date": "1020-10-20",
+   "vat_lines": null,
+   "total_gross_amount": 3441216,
+   "currency": "Kč"
+  },
+  "vat_flags": [],
+  "identifier_flags": [],
+  "output_tokens": 3226,
+  "thinking_characters": 6401
+ }
+]

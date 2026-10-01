@@ -1,0 +1,1534 @@
+[
+ {
+  "quality": "clean",
+  "invoice_number": "2025-000001",
+  "seconds": 1.57,
+  "outcomes": {
+   "supplier_name": "correct",
+   "supplier_company_id": "correct",
+   "supplier_vat_id": "correct",
+   "invoice_number": "correct",
+   "variable_symbol": "correct",
+   "issue_date": "correct",
+   "tax_point_date": "correct",
+   "due_date": "correct",
+   "vat_lines": "correct",
+   "total_gross_amount": "correct",
+   "currency": "correct"
+  },
+  "invoice": {
+   "supplier_name": "Vzorová dodavatelská s.r.o.",
+   "supplier_company_id": "87654326",
+   "supplier_vat_id": "CZ87654326",
+   "invoice_number": "2025-000001",
+   "variable_symbol": "2025000001",
+   "issue_date": "2025-08-11",
+   "tax_point_date": "2025-08-11",
+   "due_date": "2025-08-25",
+   "vat_lines": [
+    {
+     "vat_rate_percent": 21,
+     "net_amount": 4000000,
+     "vat_amount": 840000
+    }
+   ],
+   "total_gross_amount": 4840000,
+   "currency": "CZK"
+  },
+  "vat_flags": [],
+  "identifier_flags": [],
+  "text": "Faktura - daňový doklad č. 2025-000001\n\nDODAVATEL ODBĚRATEL\n\nVzorová dodavatelská s.r.o. Novák a syn s.r.o.\n\nUkázková 1, 000 00 Vzorov Vzorová 12, 000 01 Příkladov\nIČO 87654326 IČO 12345687\n\nDIČ CZ87654326 DIČ CZ12345687\n\nBankovní účet 123456789/0800\n\nZapsáno v obchodním rejstříku vedeném Krajským soudem ve\nVzorově, oddíl C, vložka 00000\n\nDATUM VYSTAVENÍ DUZP DATUM SPLATNOSTI VARIABILNÍ SYMBOL\n\n11. 8. 2025 11. 8.2025 25.8.2025 2025000001\n\nPoložka Množství Cena za M) bez DPH Sazba DPH Celkem bez DPH\nVývoj na míru 40 hod 1 000,00 Kč 21% 40 000,00 Kč\n\nREKAPITULACE DPH\nSazba Základ daně DPH Celkem\n\n21% 40 000,00 Kč 8 400,00 Kč 48 400,00 Kč\nCelkem 40 000,00 Kč | 8 400,00 Kč 48 400,00 Kč\n\nCelkem k úhradě 48 400,00 Kč\n"
+ },
+ {
+  "quality": "clean",
+  "invoice_number": "2025-000002",
+  "seconds": 1.26,
+  "outcomes": {
+   "supplier_name": "correct",
+   "supplier_company_id": "correct",
+   "supplier_vat_id": "correct",
+   "invoice_number": "correct",
+   "variable_symbol": "correct",
+   "issue_date": "correct",
+   "tax_point_date": "correct",
+   "due_date": "correct",
+   "vat_lines": "correct",
+   "total_gross_amount": "correct",
+   "currency": "correct"
+  },
+  "invoice": {
+   "supplier_name": "Vzorová dodavatelská s.r.o.",
+   "supplier_company_id": "87654326",
+   "supplier_vat_id": "CZ87654326",
+   "invoice_number": "2025-000002",
+   "variable_symbol": "2025000002",
+   "issue_date": "2025-08-12",
+   "tax_point_date": "2025-08-12",
+   "due_date": "2025-08-26",
+   "vat_lines": [
+    {
+     "vat_rate_percent": 21,
+     "net_amount": 600000,
+     "vat_amount": 126000
+    }
+   ],
+   "total_gross_amount": 726000,
+   "currency": "CZK"
+  },
+  "vat_flags": [],
+  "identifier_flags": [],
+  "text": "Faktura - daňový doklad č. 2025-000002\n\nDODAVATEL ODBĚRATEL\n\nVzorová dodavatelská s.r.o. Dvořáková Jana\n\nUkázková 1, 000 00 Vzorov Krátká 8, 000 02 Vzorovice\nIČO 87654326 IČO 34567895\n\nDIČ CZ87654326\nBankovní účet 123456789/0800\n\nZapsáno v obchodním rejstříku vedeném Krajským soudem ve\nVzorově, oddíl C, vložka 00000\n\nDATUM VYSTAVENÍ DUZP DATUM SPLATNOSTI VARIABILNÍ SYMBOL UHRAZENO\n\n12. 8. 2025 12. 8.2025 26. 8. 2025 2025000002 14. 8. 2025\nPoložka Množství Cena za M) bez DPH Sazba DPH Celkem bez DPH\nŠkolení 1 ks 6 000,00 Kč 21 % 6 000,00 Kč\n\nREKAPITULACE DPH\n\nSazba Základ daně DPH Celkem\n21 % 6 000,00 Kč 1 260,00 Kč 7 260,00 Kč\nCelkem 6 000,00 Kč 1 260,00 Kč 7 260,00 Kč\n\nCelkem k úhradě 7 260,00 Kč\n"
+ },
+ {
+  "quality": "clean",
+  "invoice_number": "2026-000016",
+  "seconds": 1.37,
+  "outcomes": {
+   "supplier_name": "correct",
+   "supplier_company_id": "correct",
+   "supplier_vat_id": "correct",
+   "invoice_number": "correct",
+   "variable_symbol": "correct",
+   "issue_date": "correct",
+   "tax_point_date": "correct",
+   "due_date": "correct",
+   "vat_lines": "correct",
+   "total_gross_amount": "correct",
+   "currency": "correct"
+  },
+  "invoice": {
+   "supplier_name": "Vzorová dodavatelská s.r.o.",
+   "supplier_company_id": "87654326",
+   "supplier_vat_id": "CZ87654326",
+   "invoice_number": "2026-000016",
+   "variable_symbol": "2026000016",
+   "issue_date": "2026-02-14",
+   "tax_point_date": "2026-02-14",
+   "due_date": "2026-02-28",
+   "vat_lines": [
+    {
+     "vat_rate_percent": 21,
+     "net_amount": 150000,
+     "vat_amount": 31500
+    },
+    {
+     "vat_rate_percent": 12,
+     "net_amount": 2401600,
+     "vat_amount": 288192
+    }
+   ],
+   "total_gross_amount": 2871292,
+   "currency": "CZK"
+  },
+  "vat_flags": [],
+  "identifier_flags": [],
+  "text": "Faktura - daňový doklad č. 2026-000016\n\nDODAVATEL\n\nVzorová dodavatelská s.r.o.\nUkázková 1, 000 00 Vzorov\n\nIČO 87654326\n\nDIČ CZ87654326\n\nBankovní účet 123456789/0800\n\nZapsáno v obchodním rejstříku vedeném Krajským soudem ve\nVzorově, oddíl C, vložka 00000\n\nODBĚRATEL\n\nSTAVBY MORAVA a.s.\n\nNádražní 45, 000 05 Příkladná Ves\nIČO 12345695\n\nDIČ CZ12345695\n\nDATUM VYSTAVENÍ DUZP DATUM SPLATNOSTI VARIABILNÍ SYMBOL UHRAZENO\n14. 2. 2026 14. 2. 2026 28. 2. 2026 2026000016 22. 2. 2026\nPoložka Množství Cena za M) bez DPH | Sazba DPH Celkem bez DPH\nKonzultace 1 hod 1 500,00 Kč 21 % 1 500,00 Kč\nUbytování účastníků školení 1 ks 24 016,00 Kč 12 % 24 016,00 Kč\nREKAPITULACE DPH\nSazba Základ daně DPH Celkem\n21 % 1 500,00 Kč 315,00 Kč 1 815,00 Kč\n12 % 24 016,00 Kč 2 881,92 Kč 26 897,92 Kč\nCelkem 25 516,00 Kč | 3196,92Kč | 28 712,92 Kč\n\nCelkem k úhradě 28 712,92 Kč\n"
+ },
+ {
+  "quality": "clean",
+  "invoice_number": "2026-000036",
+  "seconds": 1.32,
+  "outcomes": {
+   "supplier_name": "correct",
+   "supplier_company_id": "correct",
+   "supplier_vat_id": "correct",
+   "invoice_number": "correct",
+   "variable_symbol": "correct",
+   "issue_date": "correct",
+   "tax_point_date": "correct",
+   "due_date": "correct",
+   "vat_lines": "correct",
+   "total_gross_amount": "correct",
+   "currency": "correct"
+  },
+  "invoice": {
+   "supplier_name": "Vzorová dodavatelská s.r.o.",
+   "supplier_company_id": "87654326",
+   "supplier_vat_id": "CZ87654326",
+   "invoice_number": "2026-000036",
+   "variable_symbol": "2026000036",
+   "issue_date": "2026-03-06",
+   "tax_point_date": "2026-03-06",
+   "due_date": "2026-03-20",
+   "vat_lines": [
+    {
+     "vat_rate_percent": 21,
+     "net_amount": 750000,
+     "vat_amount": 157500
+    },
+    {
+     "vat_rate_percent": 12,
+     "net_amount": 2403600,
+     "vat_amount": 288432
+    }
+   ],
+   "total_gross_amount": 3599532,
+   "currency": "CZK"
+  },
+  "vat_flags": [],
+  "identifier_flags": [],
+  "text": "Faktura - daňový doklad č. 2026-000036\n\nDODAVATEL\nVzorová dodavatelská s.r.o.\nUkázková 1, 000 00 Vzorov\n\nIČO 87654326\n\nDIČ CZ87654326\n\nBankovní účet 123456789/0800\n\nZapsáno v obchodním rejstříku vedeném Krajským soudem ve\nVzorově, oddíl C, vložka 00000\n\nODBĚRATEL\n\nSTAVBY MORAVA a.s.\n\nNádražní 45, 000 05 Příkladná Ves\nIČO 12345695\n\nDIČ CZ12345695\n\nDATUM VYSTAVENÍ DUZP DATUM SPLATNOSTI VARIABILNÍ SYMBOL\n\n6. 3.2026 6. 3.2026 20. 3.2026 2026000036\n\nPoložka Množství Cena za M) bez DPH | Sazba DPH Celkem bez DPH\n\nKonzultace 5 hod 1 500,00 Kč 21 % 7 500,00 Kč\n\nUbytování účastníků školení 1 ks 24 036,00 Kč 12 % 24 036,00 Kč\nREKAPITULACE DPH\nSazba Základ daně DPH Celkem\n21 % 7 500,00 Kč 1 575,00 Kč 9 075,00 Kč\n12 % 24 036,00 Kč 2 884,32 Kč 26 920,32 Kč\nCelkem 31536,00Kč | 4459,32Kč | 35 995,32 Kč\n\nCelkem k úhradě 35 995,32 Kč\n"
+ },
+ {
+  "quality": "clean",
+  "invoice_number": "2026-000120",
+  "seconds": 1.34,
+  "outcomes": {
+   "supplier_name": "correct",
+   "supplier_company_id": "correct",
+   "supplier_vat_id": "correct",
+   "invoice_number": "correct",
+   "variable_symbol": "correct",
+   "issue_date": "correct",
+   "tax_point_date": "correct",
+   "due_date": "correct",
+   "vat_lines": "correct",
+   "total_gross_amount": "correct",
+   "currency": "correct"
+  },
+  "invoice": {
+   "supplier_name": "Vzorová dodavatelská s.r.o.",
+   "supplier_company_id": "87654326",
+   "supplier_vat_id": "CZ87654326",
+   "invoice_number": "2026-000120",
+   "variable_symbol": "2026000120",
+   "issue_date": "2026-05-29",
+   "tax_point_date": "2026-05-29",
+   "due_date": "2026-06-12",
+   "vat_lines": [
+    {
+     "vat_rate_percent": 21,
+     "net_amount": 1350000,
+     "vat_amount": 283500
+    },
+    {
+     "vat_rate_percent": 12,
+     "net_amount": 2412000,
+     "vat_amount": 289440
+    }
+   ],
+   "total_gross_amount": 4334940,
+   "currency": "CZK"
+  },
+  "vat_flags": [],
+  "identifier_flags": [],
+  "text": "Faktura - daňový doklad č. 2026-000120\n\nDODAVATEL\nVzorová dodavatelská s.r.o.\nUkázková 1, 000 00 Vzorov\n\nIČO 87654326\n\nDIČ CZ87654326\n\nBankovní účet 123456789/0800\n\nZapsáno v obchodním rejstříku vedeném Krajským soudem ve\nVzorově, oddíl C, vložka 00000\n\nODBĚRATEL\n\nNovák a syn s.r.o.\n\nVzorová 12, 000 01 Příkladov\nIČO 12345687\n\nDIČ CZ12345687\n\nDATUM VYSTAVENÍ DUZP DATUM SPLATNOSTI VARIABILNÍ SYMBOL\n29.5.2026 29.5.2026 12. 6. 2026 2026000120\nPoložka Množství Cena za M) bez DPH | Sazba DPH Celkem bez DPH\nKonzultace 9 hod 1 500,00 Kč 21 % 13 500,00 Kč\nUbytování účastníků školení 1 ks 24 120,00 Kč 12 % 24 120,00 Kč\nREKAPITULACE DPH\nSazba Základ daně DPH Celkem\n21 % 13 500,00 Kč 2 835,00 Kč 16 335,00 Kč\n12 % 24 120,00 Kč 2 894,40 Kč 27 014,40 Kč\nCelkem 37 620,00 Kč 5 729,40 Kč 43 349,40 Kč\n\nCelkem k úhradě 43 349,40 Kč\n"
+ },
+ {
+  "quality": "clean",
+  "invoice_number": "2026-000183",
+  "seconds": 1.38,
+  "outcomes": {
+   "supplier_name": "correct",
+   "supplier_company_id": "correct",
+   "supplier_vat_id": "correct",
+   "invoice_number": "correct",
+   "variable_symbol": "correct",
+   "issue_date": "correct",
+   "tax_point_date": "correct",
+   "due_date": "correct",
+   "vat_lines": "correct",
+   "total_gross_amount": "correct",
+   "currency": "correct"
+  },
+  "invoice": {
+   "supplier_name": "Vzorová dodavatelská s.r.o.",
+   "supplier_company_id": "87654326",
+   "supplier_vat_id": "CZ87654326",
+   "invoice_number": "2026-000183",
+   "variable_symbol": "2026000183",
+   "issue_date": "2026-07-31",
+   "tax_point_date": "2026-07-31",
+   "due_date": "2026-08-14",
+   "vat_lines": [
+    {
+     "vat_rate_percent": 21,
+     "net_amount": 1200000,
+     "vat_amount": 252000
+    },
+    {
+     "vat_rate_percent": 12,
+     "net_amount": 2418300,
+     "vat_amount": 290196
+    }
+   ],
+   "total_gross_amount": 4160496,
+   "currency": "CZK"
+  },
+  "vat_flags": [],
+  "identifier_flags": [],
+  "text": "Faktura - daňový doklad č. 2026-000183\n\nDODAVATEL\n\nVzorová dodavatelská s.r.o.\nUkázková 1, 000 00 Vzorov\n\nIČO 87654326\n\nDIČ CZ87654326\n\nBankovní účet 123456789/0800\n\nZapsáno v obchodním rejstříku vedeném Krajským soudem ve\n\nVzorově, oddíl C, vložka 00000\n\nODBĚRATEL\n\nŠťastný Tomáš\n\nZahradní 2, 000 06 Ukázková Lhota\nIČO 45678901\n\nDATUM VYSTAVENÍ DUZP DATUM SPLATNOSTI VARIABILNÍ SYMBOL UHRAZENO\n31. 7. 2026 31. 7. 2026 14. 8. 2026 2026000183 5. 8. 2026\nPoložka Množství Cena za M) bez DPH | Sazba DPH Celkem bez DPH\nKonzultace 8 hod 1 500,00 Kč 21 % 12 000,00 Kč\nUbytování účastníků školení 1 ks 24 183,00 Kč 12 % 24 183,00 Kč\nREKAPITULACE DPH\nSazba Základ daně DPH Celkem\n21 % 12 000,00 Kč 2 520,00 Kč 14 520,00 Kč\n12 % 24 183,00 Kč 2 901,96 Kč 27 084,96 Kč\nCelkem 36 183,00 Kč © 5421,96Kč | 41 604,96 Kč\n\nCelkem k úhradě 41 604,96 Kč\n"
+ },
+ {
+  "quality": "clean",
+  "invoice_number": "2026-000231",
+  "seconds": 1.34,
+  "outcomes": {
+   "supplier_name": "correct",
+   "supplier_company_id": "correct",
+   "supplier_vat_id": "correct",
+   "invoice_number": "correct",
+   "variable_symbol": "correct",
+   "issue_date": "correct",
+   "tax_point_date": "correct",
+   "due_date": "correct",
+   "vat_lines": "correct",
+   "total_gross_amount": "correct",
+   "currency": "correct"
+  },
+  "invoice": {
+   "supplier_name": "Vzorová dodavatelská s.r.o.",
+   "supplier_company_id": "87654326",
+   "supplier_vat_id": "CZ87654326",
+   "invoice_number": "2026-000231",
+   "variable_symbol": "2026000231",
+   "issue_date": "2026-09-25",
+   "tax_point_date": "2026-09-25",
+   "due_date": "2026-10-09",
+   "vat_lines": [
+    {
+     "vat_rate_percent": 21,
+     "net_amount": 2400000,
+     "vat_amount": 504000
+    },
+    {
+     "vat_rate_percent": 12,
+     "net_amount": 2423900,
+     "vat_amount": 290868
+    }
+   ],
+   "total_gross_amount": 5618768,
+   "currency": "CZK"
+  },
+  "vat_flags": [],
+  "identifier_flags": [],
+  "text": "Faktura - daňový doklad č. 2026-000231\n\nDODAVATEL\nVzorová dodavatelská s.r.o.\nUkázková 1, 000 00 Vzorov\n\nIČO 87654326\n\nDIČ CZ87654326\n\nBankovní účet 123456789/0800\n\nZapsáno v obchodním rejstříku vedeném Krajským soudem ve\nVzorově, oddíl C, vložka 00000\n\nODBĚRATEL\n\nELEKTRO VZOROVÁ LHOTA s.r.o.\nAmerická 30, 000 04 Vzorová Lhota\nIČO 56789017\n\nDIČ CZ56789017\n\nDATUM VYSTAVENÍ DUZP DATUM SPLATNOSTI VARIABILNÍ SYMBOL\n\n25. 9. 2026 25. 9. 2026 9. 10. 2026 2026000231\n\nPoložka Množství Cena za M) bez DPH | Sazba DPH Celkem bez DPH\n\nKonzultace 16 hod 1 500,00 Kč 21 % 24 000,00 Kč\n\nUbytování účastníků školení 1 ks 24 239,00 Kč 12 % 24 239,00 Kč\nREKAPITULACE DPH\nSazba Základ daně DPH Celkem\n21 % 24 000,00 Kč 5 040,00 Kč 29 040,00 Kč\n12 % 24 239,00 Kč 2 908,68 Kč 27 147,68 Kč\nCelkem 48 239,00 Kč | 7 948,68 Kč | 56 187,68 Kč\n\nCelkem k úhradě 56 187,68 Kč\n"
+ },
+ {
+  "quality": "clean",
+  "invoice_number": "2026-000236",
+  "seconds": 1.33,
+  "outcomes": {
+   "supplier_name": "correct",
+   "supplier_company_id": "correct",
+   "supplier_vat_id": "correct",
+   "invoice_number": "correct",
+   "variable_symbol": "correct",
+   "issue_date": "correct",
+   "tax_point_date": "correct",
+   "due_date": "correct",
+   "vat_lines": "correct",
+   "total_gross_amount": "correct",
+   "currency": "correct"
+  },
+  "invoice": {
+   "supplier_name": "Vzorová dodavatelská s.r.o.",
+   "supplier_company_id": "87654326",
+   "supplier_vat_id": "CZ87654326",
+   "invoice_number": "2026-000236",
+   "variable_symbol": "2026000236",
+   "issue_date": "2026-10-01",
+   "tax_point_date": "2026-09-29",
+   "due_date": "2026-10-13",
+   "vat_lines": [
+    {
+     "vat_rate_percent": 21,
+     "net_amount": 600000,
+     "vat_amount": 126000
+    },
+    {
+     "vat_rate_percent": 12,
+     "net_amount": 2424300,
+     "vat_amount": 290916
+    }
+   ],
+   "total_gross_amount": 3441216,
+   "currency": "CZK"
+  },
+  "vat_flags": [],
+  "identifier_flags": [],
+  "text": "Faktura - daňový doklad č. 2026-000236\n\nDODAVATEL ODBĚRATEL\n\nVzorová dodavatelská s.r.o. Šťastný Tomáš\n\nUkázková 1, 000 00 Vzorov Zahradní 2, 000 06 Ukázková Lhota\nIČO 87654326 IČO 45678901\n\nDIČ CZ87654326\nBankovní účet 123456789/0800\n\nZapsáno v obchodním rejstříku vedeném Krajským soudem ve\nVzorově, oddíl C, vložka 00000\n\nDATUM VYSTAVENÍ DUZP DATUM SPLATNOSTI VARIABILNÍ SYMBOL UHRAZENO\n\n1. 10. 2026 29. 9.2026 13. 10. 2026 2026000236 1. 10. 2026\nPoložka Množství Cena za M) bez DPH | Sazba DPH Celkem bez DPH\nKonzultace 4 hod 1 500,00 Kč 21 % 6 000,00 Kč\nUbytování účastníků školení 1 ks 24 243,00 Kč 12 % 24 243,00 Kč\n\nREKAPITULACE DPH\n\nSazba Základ daně DPH Celkem\n21 % 6 000,00 Kč 1 260,00 Kč 7 260,00 Kč\n12 % 24 243,00 Kč 2 909,16 Kč 27 152,16 Kč\n\nCelkem 30 243,00 Kč | 4 169,16 Kč 34 412,16 Kč\n\nCelkem k úhradě 34 412,16 Kč\n"
+ },
+ {
+  "quality": "clean",
+  "invoice_number": "2026-000237",
+  "seconds": 1.6,
+  "outcomes": {
+   "supplier_name": "correct",
+   "supplier_company_id": "correct",
+   "supplier_vat_id": "correct",
+   "invoice_number": "correct",
+   "variable_symbol": "correct",
+   "issue_date": "correct",
+   "tax_point_date": "correct",
+   "due_date": "correct",
+   "vat_lines": "correct",
+   "total_gross_amount": "correct",
+   "currency": "correct"
+  },
+  "invoice": {
+   "supplier_name": "Vzorová dodavatelská s.r.o.",
+   "supplier_company_id": "87654326",
+   "supplier_vat_id": "CZ87654326",
+   "invoice_number": "2026-000237",
+   "variable_symbol": "2026000237",
+   "issue_date": "2026-10-01",
+   "tax_point_date": "2026-09-23",
+   "due_date": "2026-10-07",
+   "vat_lines": [
+    {
+     "vat_rate_percent": 21,
+     "net_amount": 2100000,
+     "vat_amount": 441000
+    },
+    {
+     "vat_rate_percent": 12,
+     "net_amount": 2423700,
+     "vat_amount": 290844
+    }
+   ],
+   "total_gross_amount": 5255544,
+   "currency": "CZK"
+  },
+  "vat_flags": [],
+  "identifier_flags": [],
+  "text": "Faktura - daňový doklad č. 2026-000237\n\nDODAVATEL ODBĚRATEL\n\nVzorová dodavatelská s.r.o. Dvořáková Jana\n\nUkázková 1, 000 00 Vzorov Krátká 8, 000 02 Vzorovice\nIČO 87654326 IČO 34567895\n\nDIČ CZ87654326\nBankovní účet 123456789/0800\n\nZapsáno v obchodním rejstříku vedeném Krajským soudem ve\nVzorově, oddíl C, vložka 00000\n\nDATUM VYSTAVENÍ DUZP DATUM SPLATNOSTI VARIABILNÍ SYMBOL\n\n1. 10. 2026 23. 9. 2026 7.10.2026 2026000237\n\nPoložka Množství Cena za M) bez DPH | Sazba DPH Celkem bez DPH\nKonzultace 14 hod 1 500,00 Kč 21 % 21 000,00 Kč\nUbytování účastníků školení 1 ks 24 237,00 Kč 12 % 24 237,00 Kč\n\nREKAPITULACE DPH\n\nSazba Základ daně DPH Celkem\n21 % 21 000,00 Kč 4 410,00 Kč 25 410,00 Kč\n12 % 24 237,00 Kč 2 908,44 Kč 27 145,44 Kč\n\nCelkem 45 237,00 Kč | 7 318,44 Kč 52 555,44 Kč\n\nCelkem k úhradě 52 555,44 Kč\n"
+ },
+ {
+  "quality": "clean",
+  "invoice_number": "2026-000238",
+  "seconds": 1.44,
+  "outcomes": {
+   "supplier_name": "correct",
+   "supplier_company_id": "correct",
+   "supplier_vat_id": "correct",
+   "invoice_number": "correct",
+   "variable_symbol": "correct",
+   "issue_date": "correct",
+   "tax_point_date": "correct",
+   "due_date": "correct",
+   "vat_lines": "correct",
+   "total_gross_amount": "correct",
+   "currency": "correct"
+  },
+  "invoice": {
+   "supplier_name": "Vzorová dodavatelská s.r.o.",
+   "supplier_company_id": "87654326",
+   "supplier_vat_id": "CZ87654326",
+   "invoice_number": "2026-000238",
+   "variable_symbol": "2026000238",
+   "issue_date": "2026-10-01",
+   "tax_point_date": "2026-09-20",
+   "due_date": "2026-10-04",
+   "vat_lines": [
+    {
+     "vat_rate_percent": 21,
+     "net_amount": 1650000,
+     "vat_amount": 346500
+    },
+    {
+     "vat_rate_percent": 12,
+     "net_amount": 2423400,
+     "vat_amount": 290808
+    }
+   ],
+   "total_gross_amount": 4710708,
+   "currency": "CZK"
+  },
+  "vat_flags": [],
+  "identifier_flags": [],
+  "text": "Faktura - daňový doklad č. 2026-000238\n\nDODAVATEL\n\nVzorová dodavatelská s.r.o.\nUkázková 1, 000 00 Vzorov\n\nIČO 87654326\n\nDIČ CZ87654326\n\nBankovní účet 123456789/0800\n\nZapsáno v obchodním rejstříku vedeném Krajským soudem ve\nVzorově, oddíl C, vložka 00000\n\nODBĚRATEL\n\nELEKTRO VZOROVÁ LHOTA s.r.o.\nAmerická 30, 000 04 Vzorová Lhota\nIČO 56789017\n\nDIČ CZ56789017\n\nDATUM VYSTAVENÍ DUZP DATUM SPLATNOSTI VARIABILNÍ SYMBOL UHRAZENO\n1. 10. 2026 20. 9.2026 4. 10. 2026 2026000238 1. 10. 2026\nPoložka Množství Cena za M) bez DPH | Sazba DPH Celkem bez DPH\nKonzultace 11 hod 1 500,00 Kč 21 % 16 500,00 Kč\nUbytování účastníků školení 1 ks 24 234,00 Kč 12 % 24 234,00 Kč\nREKAPITULACE DPH\nSazba Základ daně DPH Celkem\n21 % 16 500,00 Kč 3 465,00 Kč 19 965,00 Kč\n12 % 24 234,00 Kč 2 908,08 Kč 27 142,08 Kč\nCelkem 40 734,00 Kč | 6373,08Kč | 47 107,08 Kč\n\nCelkem k úhradě 47 107,08 Kč\n"
+ },
+ {
+  "quality": "harsh",
+  "invoice_number": "2025-000001",
+  "seconds": 0.9,
+  "outcomes": {
+   "supplier_name": "missing",
+   "supplier_company_id": "missing",
+   "supplier_vat_id": "missing",
+   "invoice_number": "missing",
+   "variable_symbol": "missing",
+   "issue_date": "missing",
+   "tax_point_date": "missing",
+   "due_date": "missing",
+   "vat_lines": "missing",
+   "total_gross_amount": "missing",
+   "currency": "missing"
+  },
+  "invoice": {
+   "supplier_name": null,
+   "supplier_company_id": null,
+   "supplier_vat_id": null,
+   "invoice_number": null,
+   "variable_symbol": null,
+   "issue_date": null,
+   "tax_point_date": null,
+   "due_date": null,
+   "vat_lines": null,
+   "total_gross_amount": null,
+   "currency": null
+  },
+  "vat_flags": [],
+  "identifier_flags": [],
+  "text": "E n hd\n““. l 4 M\no i s now szparvvé 13. 000 61 MáM\nK 64004 ČO 1235087\nE92 an oC T178\np K o\n\n-M0 PEN 4 ON 0 4 o m 4\nji. 6 jas tu * 280 P PAD m0árí\nm, patné ne 0 0 Sabo Camry te 7\nvjem 02 a od jh 5 ji 4 k]\nEee ADÝ\nží * omezí | MÁME hadí\n\nCate | M00 ML naznáo né MOM\n"
+ },
+ {
+  "quality": "harsh",
+  "invoice_number": "2025-000002",
+  "seconds": 0.81,
+  "outcomes": {
+   "supplier_name": "missing",
+   "supplier_company_id": "missing",
+   "supplier_vat_id": "missing",
+   "invoice_number": "missing",
+   "variable_symbol": "missing",
+   "issue_date": "missing",
+   "tax_point_date": "missing",
+   "due_date": "missing",
+   "vat_lines": "missing",
+   "total_gross_amount": "missing",
+   "currency": "missing"
+  },
+  "invoice": {
+   "supplier_name": null,
+   "supplier_company_id": null,
+   "supplier_vat_id": null,
+   "invoice_number": null,
+   "variable_symbol": null,
+   "issue_date": null,
+   "tax_point_date": null,
+   "due_date": null,
+   "vat_lines": null,
+   "total_gross_amount": null,
+   "currency": null
+  },
+  "vat_flags": [],
+  "identifier_flags": [],
+  "text": "nat „...-. =\nje PE\nkkonikí jé\n\nnoty“\ndásní\nas BO 62 nr\nCL spe m\ndve p UM arom k diků u P\nje 6 ě5 el ja ké\nad n. Tha\n\nDY a Ré 6 =\n\nz 4 db 00 ě , pan E 00\neo 60000004 Es odk 7 dě E\n\nCešiuetn k úhrndů 7 260,00 NÉ\n"
+ },
+ {
+  "quality": "harsh",
+  "invoice_number": "2026-000016",
+  "seconds": 0.92,
+  "outcomes": {
+   "supplier_name": "missing",
+   "supplier_company_id": "missing",
+   "supplier_vat_id": "missing",
+   "invoice_number": "missing",
+   "variable_symbol": "missing",
+   "issue_date": "missing",
+   "tax_point_date": "missing",
+   "due_date": "missing",
+   "vat_lines": "missing",
+   "total_gross_amount": "missing",
+   "currency": "missing"
+  },
+  "invoice": {
+   "supplier_name": null,
+   "supplier_company_id": null,
+   "supplier_vat_id": null,
+   "invoice_number": null,
+   "variable_symbol": null,
+   "issue_date": null,
+   "tax_point_date": null,
+   "due_date": null,
+   "vat_lines": null,
+   "total_gross_amount": null,
+   "currency": null
+  },
+  "vat_flags": [],
+  "identifier_flags": [],
+  "text": "n poetab'\n*“. VAT MEA 65\nshékoet 3 0000 VEP57 jpdnošní 21, 206 6h kaéné VYS\nKL bál lů 12000\nbd OPAT 06 OC (Z\nBast sl 1 0 P\n\nJe Todo 61 s se yb už apo W900 ph\n\nja. 4 j0ě 14 3.006 penv008 zi 3 3606\na tenéh 1 2 wed 0ě 68 n. p Vok 6ě\n\n7. 1 80.60 Mí 1 j6t0\njiž% já k 0 016 sč p 2\n\nCeem | HMP jme ě ně DŘ MÍZALNÉ\n"
+ },
+ {
+  "quality": "harsh",
+  "invoice_number": "2026-000036",
+  "seconds": 0.65,
+  "outcomes": {
+   "supplier_name": "missing",
+   "supplier_company_id": "missing",
+   "supplier_vat_id": "missing",
+   "invoice_number": "missing",
+   "variable_symbol": "missing",
+   "issue_date": "missing",
+   "tax_point_date": "missing",
+   "due_date": "missing",
+   "vat_lines": "missing",
+   "total_gross_amount": "missing",
+   "currency": "missing"
+  },
+  "invoice": {
+   "supplier_name": null,
+   "supplier_company_id": null,
+   "supplier_vat_id": null,
+   "invoice_number": null,
+   "variable_symbol": null,
+   "issue_date": null,
+   "tax_point_date": null,
+   "due_date": null,
+   "vat_lines": null,
+   "total_gross_amount": null,
+   "currency": null
+  },
+  "vat_flags": [],
+  "identifier_flags": [],
+  "text": ""
+ },
+ {
+  "quality": "harsh",
+  "invoice_number": "2026-000120",
+  "seconds": 0.63,
+  "outcomes": {
+   "supplier_name": "missing",
+   "supplier_company_id": "missing",
+   "supplier_vat_id": "missing",
+   "invoice_number": "missing",
+   "variable_symbol": "missing",
+   "issue_date": "missing",
+   "tax_point_date": "missing",
+   "due_date": "missing",
+   "vat_lines": "missing",
+   "total_gross_amount": "missing",
+   "currency": "missing"
+  },
+  "invoice": {
+   "supplier_name": null,
+   "supplier_company_id": null,
+   "supplier_vat_id": null,
+   "invoice_number": null,
+   "variable_symbol": null,
+   "issue_date": null,
+   "tax_point_date": null,
+   "due_date": null,
+   "vat_lines": null,
+   "total_gross_amount": null,
+   "currency": null
+  },
+  "vat_flags": [],
+  "identifier_flags": [],
+  "text": "sí“ 19 dě 8 8\n\n2% je 1460 80\n"
+ },
+ {
+  "quality": "harsh",
+  "invoice_number": "2026-000183",
+  "seconds": 0.77,
+  "outcomes": {
+   "supplier_name": "missing",
+   "supplier_company_id": "missing",
+   "supplier_vat_id": "missing",
+   "invoice_number": "missing",
+   "variable_symbol": "missing",
+   "issue_date": "missing",
+   "tax_point_date": "missing",
+   "due_date": "missing",
+   "vat_lines": "missing",
+   "total_gross_amount": "missing",
+   "currency": "missing"
+  },
+  "invoice": {
+   "supplier_name": null,
+   "supplier_company_id": null,
+   "supplier_vat_id": null,
+   "invoice_number": null,
+   "variable_symbol": null,
+   "issue_date": null,
+   "tax_point_date": null,
+   "due_date": null,
+   "vat_lines": null,
+   "total_gross_amount": null,
+   "currency": null
+  },
+  "vat_flags": [],
+  "identifier_flags": [],
+  "text": "P bdí\n\nha n\n\n4.4 žá\n\n12 00 dá sč\n\nka VE 55 22% p 100,00 l\nP\n\nk 14 om 0 M2240 6é jan\n2 TRI PE ho 7 ae\n\nl jé sA O 4 aš) 0é kč P\n\nCelkem i úhradé 41 604,96 Ké\n"
+ },
+ {
+  "quality": "harsh",
+  "invoice_number": "2026-000231",
+  "seconds": 0.67,
+  "outcomes": {
+   "supplier_name": "missing",
+   "supplier_company_id": "missing",
+   "supplier_vat_id": "missing",
+   "invoice_number": "missing",
+   "variable_symbol": "missing",
+   "issue_date": "missing",
+   "tax_point_date": "missing",
+   "due_date": "missing",
+   "vat_lines": "missing",
+   "total_gross_amount": "missing",
+   "currency": "missing"
+  },
+  "invoice": {
+   "supplier_name": null,
+   "supplier_company_id": null,
+   "supplier_vat_id": null,
+   "invoice_number": null,
+   "variable_symbol": null,
+   "issue_date": null,
+   "tax_point_date": null,
+   "due_date": null,
+   "vat_lines": null,
+   "total_gross_amount": null,
+   "currency": null
+  },
+  "vat_flags": [],
+  "identifier_flags": [],
+  "text": ""
+ },
+ {
+  "quality": "harsh",
+  "invoice_number": "2026-000236",
+  "seconds": 0.75,
+  "outcomes": {
+   "supplier_name": "missing",
+   "supplier_company_id": "missing",
+   "supplier_vat_id": "missing",
+   "invoice_number": "missing",
+   "variable_symbol": "missing",
+   "issue_date": "missing",
+   "tax_point_date": "missing",
+   "due_date": "missing",
+   "vat_lines": "missing",
+   "total_gross_amount": "missing",
+   "currency": "missing"
+  },
+  "invoice": {
+   "supplier_name": null,
+   "supplier_company_id": null,
+   "supplier_vat_id": null,
+   "invoice_number": null,
+   "variable_symbol": null,
+   "issue_date": null,
+   "tax_point_date": null,
+   "due_date": null,
+   "vat_lines": null,
+   "total_gross_amount": null,
+   "currency": null
+  },
+  "vat_flags": [],
+  "identifier_flags": [],
+  "text": "sin tee 0 (tm ses 75\n\nde 1 Mg 6 64 0“ 4 m 00 bí\nje žá pk 00 1“ PLL\ntd de E\n2. et E Vsdkal -ROE\n2“ D4 6000 bí P a\n\nje 334005\nrám ba 743,00 0 4 206,56 bě PE\n"
+ },
+ {
+  "quality": "harsh",
+  "invoice_number": "2026-000237",
+  "seconds": 1.02,
+  "outcomes": {
+   "supplier_name": "missing",
+   "supplier_company_id": "missing",
+   "supplier_vat_id": "missing",
+   "invoice_number": "missing",
+   "variable_symbol": "missing",
+   "issue_date": "missing",
+   "tax_point_date": "missing",
+   "due_date": "missing",
+   "vat_lines": "missing",
+   "total_gross_amount": "missing",
+   "currency": "missing"
+  },
+  "invoice": {
+   "supplier_name": null,
+   "supplier_company_id": null,
+   "supplier_vat_id": null,
+   "invoice_number": null,
+   "variable_symbol": null,
+   "issue_date": null,
+   "tax_point_date": null,
+   "due_date": null,
+   "vat_lines": null,
+   "total_gross_amount": null,
+   "currency": null
+  },
+  "vat_flags": [],
+  "identifier_flags": [],
+  "text": "Faktura - daňový doklad č- 2026-000237\n\nad el2e =\n\nerývé metry 64 5 rotě kor\nzkueduvnh, *. PŘ 0 VVS o.. O0 7 0\nKD 64176 Čo ATO\n\nO CHM\n\noctu ot 1M DO\n\nz o pa am ČO\nvývů 7 svý jé\n\nEMA -\" MM o 4 -DM o\n\np 0M 71% 2800 PE m\n\n5 + 34 ra P mu 5 0 ká\n\nngnovémí odanoů, Mne 1% pe 010 2+ pe p 6\npř od dn\nzi zLd0n 06 RADU Mate\nW% D4 110 j M PE Lodě\n\nem 42 337.0 6 + mav 22 Wb,bé 4\n\nCalkem k úhradě 52 595.44 Ké\n"
+ },
+ {
+  "quality": "harsh",
+  "invoice_number": "2026-000238",
+  "seconds": 0.67,
+  "outcomes": {
+   "supplier_name": "missing",
+   "supplier_company_id": "missing",
+   "supplier_vat_id": "missing",
+   "invoice_number": "missing",
+   "variable_symbol": "missing",
+   "issue_date": "missing",
+   "tax_point_date": "missing",
+   "due_date": "missing",
+   "vat_lines": "missing",
+   "total_gross_amount": "missing",
+   "currency": "missing"
+  },
+  "invoice": {
+   "supplier_name": null,
+   "supplier_company_id": null,
+   "supplier_vat_id": null,
+   "invoice_number": null,
+   "variable_symbol": null,
+   "issue_date": null,
+   "tax_point_date": null,
+   "due_date": null,
+   "vat_lines": null,
+   "total_gross_amount": null,
+   "currency": null
+  },
+  "vat_flags": [],
+  "identifier_flags": [],
+  "text": "—\njp vk 086\n"
+ },
+ {
+  "quality": "mild",
+  "invoice_number": "2025-000001",
+  "seconds": 1.35,
+  "outcomes": {
+   "supplier_name": "correct",
+   "supplier_company_id": "correct",
+   "supplier_vat_id": "correct",
+   "invoice_number": "correct",
+   "variable_symbol": "missing",
+   "issue_date": "missing",
+   "tax_point_date": "missing",
+   "due_date": "missing",
+   "vat_lines": "missing",
+   "total_gross_amount": "correct",
+   "currency": "correct"
+  },
+  "invoice": {
+   "supplier_name": "Vzorová dodavatelská s.r.o.",
+   "supplier_company_id": "87654326",
+   "supplier_vat_id": "CZ87654326",
+   "invoice_number": "2025-000001",
+   "variable_symbol": null,
+   "issue_date": null,
+   "tax_point_date": null,
+   "due_date": null,
+   "vat_lines": null,
+   "total_gross_amount": 4840000,
+   "currency": "CZK"
+  },
+  "vat_flags": [],
+  "identifier_flags": [],
+  "text": "Faktura - daňový doklad č. 2025-000001\n\nDODAVATEL ODBĚÉRATEL\n\nVzorová dodavatelská s.r.o. Novák a syn S.r.0.\n\nUkázková 1, 000 00 Vzorov Vzorová 12, 000 01 Příkladov\nIČO 87654326 IČO 12345687\n\nDIČ CZ87654326 DIČ CZ12345687\n\nBankovní účet 123456789/0800\n\nZapsáno v obchodním rejstříku vedeném Krajským soudem vě\nVzorově, oddíl C, vložka 00000\n\nDATUM VYSTAVÉNÍ DUZP DATUM SPLATNOSTI VARIABILNÍ SYMBOI\n\n11. 8. 2025 11. 8, 2025 25, 8. 2025 2025000001\n\nPoložka Množství Cena za Mj bez DPH Sazba DPH Celkem bez DPH\nVývoj na míru 40 hod 1 000,00 Kč 21% 40 000,00 Kč\n\nREKAPIT ULACE DPH\nSazba Základ daně DPH Celkem\n\n21 % 40 000,00 Kč 8 400,00 Kč 48 400,00 Kč\nCelkem 40 000,00 Kč | 8400,00Kč | 48 400,00 Kč\n\nCelkem k úhradě 48 400,00 Kč\n"
+ },
+ {
+  "quality": "mild",
+  "invoice_number": "2025-000002",
+  "seconds": 1.64,
+  "outcomes": {
+   "supplier_name": "missing",
+   "supplier_company_id": "correct",
+   "supplier_vat_id": "correct",
+   "invoice_number": "correct",
+   "variable_symbol": "correct",
+   "issue_date": "correct",
+   "tax_point_date": "correct",
+   "due_date": "correct",
+   "vat_lines": "correct",
+   "total_gross_amount": "correct",
+   "currency": "correct"
+  },
+  "invoice": {
+   "supplier_name": null,
+   "supplier_company_id": "87654326",
+   "supplier_vat_id": "CZ87654326",
+   "invoice_number": "2025-000002",
+   "variable_symbol": "2025000002",
+   "issue_date": "2025-08-12",
+   "tax_point_date": "2025-08-12",
+   "due_date": "2025-08-26",
+   "vat_lines": [
+    {
+     "vat_rate_percent": 21,
+     "net_amount": 600000,
+     "vat_amount": 126000
+    }
+   ],
+   "total_gross_amount": 726000,
+   "currency": "CZK"
+  },
+  "vat_flags": [],
+  "identifier_flags": [],
+  "text": "Faktura - daňový doklad č. 2025-000002\n\nDODAVÁTEL ODBĚRATEL\nVzorová dodavatelská S.r.0. Dvořáková Jana\nUkázková 1, 000 00 Vzorov Krátká 8, 000 02 Vzorovice\nIČO 87654326 IČO 34567895\nDIČ CZ87654326\nBankovní účet 123456789/0800\nZapsáno v obchodním rejstříku vedeném Krajským soudem ve\nVzarově, oddíl C, vlůžka 00000\nDATUM VYSTAVENÍ DUZP DATUM SPLATNOSTI VARIABILNÍ SYMBOL UHRAZENO\n12. 8. 2025 12. 8. 2025 26. 8. 2025 2025000002 14. 8. 2025\nPoložka Množství Cena za Mj bez DPH Sazba DPH Celkem bez DPH\nŠkolení 1ks 6 000,00 Kč 21% 6 000,00 Kč\nREKAPITULACE DPH\nSazba Základ daně DPH Celkem\n21% 6 000,00 Kč 1 260,00 Kč 7 260,00 Kč\nCelkem 6 000,00 Kč 1 260,00 Kč 7 260,00 Kč\n\nCelkem k úhradě 7 260,00 Kč\n"
+ },
+ {
+  "quality": "mild",
+  "invoice_number": "2026-000016",
+  "seconds": 1.43,
+  "outcomes": {
+   "supplier_name": "correct",
+   "supplier_company_id": "correct",
+   "supplier_vat_id": "correct",
+   "invoice_number": "correct",
+   "variable_symbol": "correct",
+   "issue_date": "correct",
+   "tax_point_date": "correct",
+   "due_date": "correct",
+   "vat_lines": "missing",
+   "total_gross_amount": "correct",
+   "currency": "correct"
+  },
+  "invoice": {
+   "supplier_name": "Vzorová dodavatelská s.r.o.",
+   "supplier_company_id": "87654326",
+   "supplier_vat_id": "CZ87654326",
+   "invoice_number": "2026-000016",
+   "variable_symbol": "2026000016",
+   "issue_date": "2026-02-14",
+   "tax_point_date": "2026-02-14",
+   "due_date": "2026-02-28",
+   "vat_lines": null,
+   "total_gross_amount": 2871292,
+   "currency": "CZK"
+  },
+  "vat_flags": [],
+  "identifier_flags": [],
+  "text": "Faktura - daňový doklad č. 2026-000016\n\nDODAVATEL\n\nVzorová dodavatelská s.r.o.\nUkázková 1, 000 00 Vzorov\n\nIČO 87654326\n\nDIČ CZ87654326\n\nBankovní účet 123456789/0800\n\nZapsáno v obchodním rejstříku vedeném Krajským soudem vě\nVzorově. odáji C, vložka 00000\n\nODBĚRATEL\n\nSTAVBY MORAVA a.s.\n\nNádražní 45, 000 05 Příkladná Ves\nIČO 12345695\n\nDIČ CZ12345695\n\nDATUM VYSTAVENÍ DUZP DATUM SPLATNOSTI VARIABILNÍ SYMBOL, UHRAZENO\n14. 2. 2026 14. 2. 2026 28. 2. 2026 2026000016 22. 2. 2026\nPoložka Množství Cena za Mj bez DPH | Sazba DPH Celkem bez DPH\nKonzultace 1 hod 1 500,00 Kč 21 % 1 500,00 Kč\nUbytování účastníků školení 1 ks 24 016,00 Kč 12 % 24 016,00 Kč\nREKAPITULACE DPH\nSazba Základ daně DPH Celkem\nZ L 00,00 Kč. 315,00Kč | 1815,00Kč\n12 % 24 016,00 Kč 2 881.92 Kč 26 897,92 Kč\nCelkem 25 516,00 Kč © 3196,92Kč | 28 712,92 Kč\n\nCelkem k úhradě 28 712,92 Kč\n"
+ },
+ {
+  "quality": "mild",
+  "invoice_number": "2026-000036",
+  "seconds": 1.42,
+  "outcomes": {
+   "supplier_name": "missing",
+   "supplier_company_id": "correct",
+   "supplier_vat_id": "correct",
+   "invoice_number": "correct",
+   "variable_symbol": "missing",
+   "issue_date": "missing",
+   "tax_point_date": "missing",
+   "due_date": "missing",
+   "vat_lines": "wrong",
+   "total_gross_amount": "correct",
+   "currency": "correct"
+  },
+  "invoice": {
+   "supplier_name": null,
+   "supplier_company_id": "87654326",
+   "supplier_vat_id": "CZ87654326",
+   "invoice_number": "2026-000036",
+   "variable_symbol": null,
+   "issue_date": null,
+   "tax_point_date": null,
+   "due_date": null,
+   "vat_lines": [
+    {
+     "vat_rate_percent": 12,
+     "net_amount": 2403600,
+     "vat_amount": 288432
+    }
+   ],
+   "total_gross_amount": 3599532,
+   "currency": "CZK"
+  },
+  "vat_flags": [
+   "total 3599532 is not 2692032, the sum of the VAT lines"
+  ],
+  "identifier_flags": [],
+  "text": "Faktura - daňový doklad č. 2026-000036\n\nDODAVATĚL\n\nVzorová dodavatelská s.r.o.\nUkázková 1, 000 00 Vzorov\n\nIČO 87654326\n\nDIČ CZ87654326\n\nBankovní účet 123456789/0800\n\nZamáno v obchodním rejstříku wedeném Krajským soudem vě\nVzarově, oddíl C, vložka 00000\n\nOOBĚRATEL\n\nSTAVBY MORAVA a.s.\n\nNádražní 45, 000 05 Příkladná Ves\nIČO 12345695\n\nDIČ CZ12345695\n\nDATUM VYSTAVÉNÍ DUZP DATUM SPLATNOSTI VARIABILNÍ SYMBOI\n6. 3. 2026 6. 3. 2026 20. 3. 2026 2026000036\nPoložka Množství Cena za Mj bez DPH | Sazba DPH Celkem bez DPH\nKonzultace 5 hod l 500,00 Kč | 21% 7 500,00 Kč\nUbytování účastníků školení 1 ks 24 036,00 Kč 12 % 24 036,00 Kč\nREKAPITULACE DPH\nSazba Základ daně DPH Celkem\n21 % . 7500,00 Kč : 1 575,00 kč Ea 9.075,00 Kč\n12 % 24 036,00 Kč 2 884,32 Kč 26 920,32 Kč\nCelkem 31536,00 Kč © 4459,32Kč 35 995,32 Kč\n\nCelkem k úhradě 35 995,32 Kč\n"
+ },
+ {
+  "quality": "mild",
+  "invoice_number": "2026-000120",
+  "seconds": 1.42,
+  "outcomes": {
+   "supplier_name": "missing",
+   "supplier_company_id": "correct",
+   "supplier_vat_id": "correct",
+   "invoice_number": "correct",
+   "variable_symbol": "missing",
+   "issue_date": "missing",
+   "tax_point_date": "missing",
+   "due_date": "missing",
+   "vat_lines": "wrong",
+   "total_gross_amount": "correct",
+   "currency": "correct"
+  },
+  "invoice": {
+   "supplier_name": null,
+   "supplier_company_id": "87654326",
+   "supplier_vat_id": "CZ87654326",
+   "invoice_number": "2026-000120",
+   "variable_symbol": null,
+   "issue_date": null,
+   "tax_point_date": null,
+   "due_date": null,
+   "vat_lines": [
+    {
+     "vat_rate_percent": 12,
+     "net_amount": 2412000,
+     "vat_amount": 289440
+    }
+   ],
+   "total_gross_amount": 4334940,
+   "currency": "CZK"
+  },
+  "vat_flags": [
+   "total 4334940 is not 2701440, the sum of the VAT lines"
+  ],
+  "identifier_flags": [],
+  "text": "Faktura - daňový doklad č. 2026-000120\n\nDODAVATEL\n\nVzorová dodavatelská S.r.0.\nUkázková 1, 000 00 Vzorov\n\nIČO 87654326\n\nDIČ CZ87654326\n\nBankovní účet 123456789/0800\n\nZapsáno v obchodním rejstříku vedeném Krajským soudem ve\nVzarově. oddíl C, vložka 00000\n\nODBĚRATEL\n\nNovák a syn S.f.0.\n\nVzorová 12, 000 01 Příkladov\nIČO 12345687\n\nDIČ CZ12345687\n\nOATUM VYSTAVENÍ DUZP DATUM SPLATNOSTI: VARIABILNÍ SYMBOL\n29., 5. 2026 29. 5. 2026 12. 6. 2026 2026000120\nPoložka Množství Cena za Mj bez DPH | Sazba DPH Celkem bez DPH\nKonzultace 9 hod 1 500,00 Kč 21 % | 13 500,00 Kč\nUbytování účastníků školení l ks 24 120,00 Kč 12 % 24 120,00 Kč\nREKAPITULACE DPH\nSazba Základ daně DPH Celkem\nJim 1350000Kč  2835,00Kč | 16335,00Kč\n12% 24 120,00 Kč 2 894,40 Kč 27 014,40 Kč\nCelkem 37 620,00 Kč © 5729,40Kč | 43 349,40 Kč\n\nCelkem k úhradě 43 349,40 Kč\n"
+ },
+ {
+  "quality": "mild",
+  "invoice_number": "2026-000183",
+  "seconds": 1.42,
+  "outcomes": {
+   "supplier_name": "correct",
+   "supplier_company_id": "correct",
+   "supplier_vat_id": "correct",
+   "invoice_number": "correct",
+   "variable_symbol": "correct",
+   "issue_date": "correct",
+   "tax_point_date": "correct",
+   "due_date": "correct",
+   "vat_lines": "wrong",
+   "total_gross_amount": "correct",
+   "currency": "correct"
+  },
+  "invoice": {
+   "supplier_name": "Vzorová dodavatelská s.r.o.",
+   "supplier_company_id": "87654326",
+   "supplier_vat_id": "CZ87654326",
+   "invoice_number": "2026-000183",
+   "variable_symbol": "2026000183",
+   "issue_date": "2026-07-31",
+   "tax_point_date": "2026-07-31",
+   "due_date": "2026-08-14",
+   "vat_lines": [
+    {
+     "vat_rate_percent": 12,
+     "net_amount": 2418300,
+     "vat_amount": 290196
+    }
+   ],
+   "total_gross_amount": 4160496,
+   "currency": "CZK"
+  },
+  "vat_flags": [
+   "total 4160496 is not 2708496, the sum of the VAT lines"
+  ],
+  "identifier_flags": [],
+  "text": "Faktura - daňový doklad č. 2026-000183\n\nDODAVATEL\n\nVzorová dodavatelská s.r.o.\nUkázková 1, 000 00 Vzorov\n\nIČO 87654326\n\nDIČ CZ87654326\n\nBankovní účet 123456789/0800\n\nZapsáno v obchodním rejstříku vedeném Krajským soudem ve\nVzorové, oddil C. vložka 00000\n\nODBĚRATEL\n\nŠťastný Tomáš\n\nZahradní 2, 000 06 Ukázková Lhota\nIČO 45678901\n\nDATUM VYSTAVENÍ DUZP DATUM SPLATNOSTI VARIABILNÍ SYMBOL UHRAZENO\n31. 7. 2026 31. 7. 2026 14. 8. 2026 2026000183 5. 8. 2026\nPoložka Množství Cena za Mj bezDPH | Sazba DPH Celkem bez DPH\nKonzultace : 8 hod ! 500,00 Kč | 21% 12 000,00 Kč\nUbytování účastníků školení 1 ks 24 183,00 Kč 12 % 24 183,00 Kč\nREKAPITULACE DPH\nSazba Základ daně DPH Celkem\nJa% 12000,00Kč.  2520,00Kč | 14520,00Kč\n12 % 24 183,00 Kč 2 901,96 Kč 27 084,96 Kč\nCelkem 36 183,00 Kč © 5421,96Kč 41 604,96 Kč\n\nCelkem k úhradě 41 604,96 Kč\n"
+ },
+ {
+  "quality": "mild",
+  "invoice_number": "2026-000231",
+  "seconds": 1.45,
+  "outcomes": {
+   "supplier_name": "correct",
+   "supplier_company_id": "correct",
+   "supplier_vat_id": "correct",
+   "invoice_number": "correct",
+   "variable_symbol": "correct",
+   "issue_date": "correct",
+   "tax_point_date": "correct",
+   "due_date": "missing",
+   "vat_lines": "wrong",
+   "total_gross_amount": "correct",
+   "currency": "correct"
+  },
+  "invoice": {
+   "supplier_name": "Vzorová dodavatelská s.r.o.",
+   "supplier_company_id": "87654326",
+   "supplier_vat_id": "CZ87654326",
+   "invoice_number": "2026-000231",
+   "variable_symbol": "2026000231",
+   "issue_date": "2026-09-25",
+   "tax_point_date": "2026-09-25",
+   "due_date": null,
+   "vat_lines": [
+    {
+     "vat_rate_percent": 12,
+     "net_amount": 2423900,
+     "vat_amount": 290868
+    }
+   ],
+   "total_gross_amount": 5618768,
+   "currency": "CZK"
+  },
+  "vat_flags": [
+   "total 5618768 is not 2714768, the sum of the VAT lines"
+  ],
+  "identifier_flags": [],
+  "text": "Faktura - daňový doklad č. 2026-000231\n\nDODAVATEL\n\nVzorová dodavatelská s.r.o.\nUkázková 1, 000 00 Vzorov\n\nIČO 87654326\n\nDIČ CZ87654326\n\nBankovní účet 123456789/0800\n\nZapsáno v obchodním rejstříku vedeném Krajským soudem vé\nVzorově. oddíl C. vlažka 00000\n\nODBĚRATEL\n\nELEKTRO VZOROVÁ LHOTA s.r.o.\nAmerická 30, 000 04 Vzorová Lhota\nIČO 56789017\n\nDIČ CZ56789017\n\nDATUM VYSTAVENÍ DUZP DATUM SPLATNOSTI VARIABILNÍ SYMBOL\n25. 9. 2026 25. 9. 2026 9, 10. 2026 2026000231\nPoložka Množství Cena za Mj bez DPH | Sazba DPH Celkem bez DPH\nKonzultace | 16 hod 1 500,00 Kč 21 % 24 000,00 Kč\nUbytování účastníků školení 1 ks 24 239,00 Kč 12 % 24 239,00 Kč\nREKAPITULACE DPH\nSazba Základ daně DPH Celkem\nJp8G—24000,00Kč  5040,00Kč | 29040,00Kč\n12 % 24 239,00 Kč 2 908,68 Kč 27 147,68 Kč\nCelkem 48 239,00Kč | 7948,68Kč | 56 187,68 Kč\n\nCelkem k úhradě 56 187,68 Kč\n"
+ },
+ {
+  "quality": "mild",
+  "invoice_number": "2026-000236",
+  "seconds": 1.43,
+  "outcomes": {
+   "supplier_name": "missing",
+   "supplier_company_id": "correct",
+   "supplier_vat_id": "correct",
+   "invoice_number": "correct",
+   "variable_symbol": "correct",
+   "issue_date": "correct",
+   "tax_point_date": "correct",
+   "due_date": "correct",
+   "vat_lines": "correct",
+   "total_gross_amount": "correct",
+   "currency": "correct"
+  },
+  "invoice": {
+   "supplier_name": null,
+   "supplier_company_id": "87654326",
+   "supplier_vat_id": "CZ87654326",
+   "invoice_number": "2026-000236",
+   "variable_symbol": "2026000236",
+   "issue_date": "2026-10-01",
+   "tax_point_date": "2026-09-29",
+   "due_date": "2026-10-13",
+   "vat_lines": [
+    {
+     "vat_rate_percent": 21,
+     "net_amount": 600000,
+     "vat_amount": 126000
+    },
+    {
+     "vat_rate_percent": 12,
+     "net_amount": 2424300,
+     "vat_amount": 290916
+    }
+   ],
+   "total_gross_amount": 3441216,
+   "currency": "CZK"
+  },
+  "vat_flags": [],
+  "identifier_flags": [],
+  "text": "Faktura - daňový doklad č. 2026-000236\n\nDODAVÁTEL ODBĚRATEL\n\nVzorová dodavatelská s.r.o. Šťastný Tomáš\n\nUkázková 1, 000 00 Vzorov Zahradní 2, 000 06 Ukázková Lhota\nIČO 87654326 IČO 45678901\n\nDIČ CZ87654326\n\nBankovní účet 123456789/0800\n\nZapsáno v obchodním rejstříku vedeném Krajským soudem vě\nVzorově. oddji C, vložka 00000\n\nDATUM VYSTAVENÍ DUZP DATUM SPLATNOSTI VARIABILNÍ SYMBOL UHRAZENO\n\n1. 10. 2026 29. 9. 2026 13. 10. 2026 2026000236 1. 10. 2026\nPoložka Množství Cena za Mj bez DPH | Sazba DPH Celkem bez DPH\nKonzultace 4 hod 1 500,00 Kč 21 % 6 000,00 Kč\nUbytování účastníků školení 1 ks 24 243,00 Kč 12 % 24 243,00 Kč\n\nREKAPITULACE DPH\n\nSazba Základ daně DPH Celkem\n21% 6 000,00 Kč 1 260,00 Kč 7 260,00 Kč\n12 % 24 243,00 Kč 2 909,16 Kč 27 152,16 Kč\n\nCelkem 30 243,00 Kč | 4169,16Kč | 34 412,16 Kč\n\nCelkem k úhradě 34 412,16 Kč\n"
+ },
+ {
+  "quality": "mild",
+  "invoice_number": "2026-000237",
+  "seconds": 1.4,
+  "outcomes": {
+   "supplier_name": "missing",
+   "supplier_company_id": "correct",
+   "supplier_vat_id": "correct",
+   "invoice_number": "correct",
+   "variable_symbol": "correct",
+   "issue_date": "correct",
+   "tax_point_date": "missing",
+   "due_date": "missing",
+   "vat_lines": "wrong",
+   "total_gross_amount": "correct",
+   "currency": "correct"
+  },
+  "invoice": {
+   "supplier_name": null,
+   "supplier_company_id": "87654326",
+   "supplier_vat_id": "CZ87654326",
+   "invoice_number": "2026-000237",
+   "variable_symbol": "2026000237",
+   "issue_date": "2026-10-01",
+   "tax_point_date": null,
+   "due_date": null,
+   "vat_lines": [
+    {
+     "vat_rate_percent": 12,
+     "net_amount": 2423700,
+     "vat_amount": 290844
+    }
+   ],
+   "total_gross_amount": 5255544,
+   "currency": "CZK"
+  },
+  "vat_flags": [
+   "total 5255544 is not 2714544, the sum of the VAT lines"
+  ],
+  "identifier_flags": [],
+  "text": "Faktura - daňový doklad č. 2026-000237\n\nDODAVÁTEL\n\nVzorová dodavatelská S.r.o.\nUkázková 1, 000 00 Vzorov\n\nIČO 87654326\n\nDIČ CZ87654326\n\nBankovní účet 123456789/0800\n\nOOBĚRATEL\n\nDvořáková Jana\n\nKrátká 8, 000 02 Vzorovice\nIČO 34567895\n\nZapsáno v obchodním rejstříku vedeném Krajským soudem vě\n\nVzorově. oddíl C, vložka 00000\n\nDATUM VYSTAVENÍ DUZP DATUM SPLATNOSTI VARIABILNÍ SYMBOL\n1. 10. 2026 23. 9, 2026 7, 10. 2026 2026000237\nPoložka Množství Cena za Mj bez DPH | Sazba DPH Celkem bez DPH\nKonzultace 14 hod 1 500,00 Kč : 21% 21 000,00 Kč\nUbytování účastníků školení 1 ks 24 237,00 Kč 12 % 24 237,00 Kč\nREKAPITULACE DPH\nSazba Základ daně DPH Celkem\n21% 2100000Kč. 4410,00Kč | 25410,00Kč\n12 % 24 237,00 Kč 2 908,44 Kč 27 145,44 Kč\nCelkem 45 237,00Kč © 7318,44Kč | 52 555,44 Kč\n\nCelkem k úhradě 52 555,44 Kč\n"
+ },
+ {
+  "quality": "mild",
+  "invoice_number": "2026-000238",
+  "seconds": 1.75,
+  "outcomes": {
+   "supplier_name": "wrong",
+   "supplier_company_id": "correct",
+   "supplier_vat_id": "correct",
+   "invoice_number": "correct",
+   "variable_symbol": "missing",
+   "issue_date": "missing",
+   "tax_point_date": "missing",
+   "due_date": "missing",
+   "vat_lines": "correct",
+   "total_gross_amount": "correct",
+   "currency": "correct"
+  },
+  "invoice": {
+   "supplier_name": "Vzorová dodavatelská $.r.0. ELEKTRO VZOROVÁ LHOTA s.r.o.",
+   "supplier_company_id": "87654326",
+   "supplier_vat_id": "CZ87654326",
+   "invoice_number": "2026-000238",
+   "variable_symbol": null,
+   "issue_date": null,
+   "tax_point_date": null,
+   "due_date": null,
+   "vat_lines": [
+    {
+     "vat_rate_percent": 21,
+     "net_amount": 1650000,
+     "vat_amount": 346500
+    },
+    {
+     "vat_rate_percent": 12,
+     "net_amount": 2423400,
+     "vat_amount": 290808
+    }
+   ],
+   "total_gross_amount": 4710708,
+   "currency": "CZK"
+  },
+  "vat_flags": [],
+  "identifier_flags": [],
+  "text": "Faktura - daňový doklad č. 2026-000238\n\nDODAVATEL OOBĚRATEL\nVzorová dodavatelská $.r.0. ELEKTRO VZOROVÁ LHOTA s.r.o.\nUkázková 1, 000 00 Vzorov Americká 30, 000 04 Vzorová Lhota\nIČO 87654326 IČO 56789017\nDIČ CZ87654326 DIČ CZ56789017\nBankovní účet 123456789/0800\nZapsáno v obchodním rejstříku vedeném Krajským soudem vě\nVzorově, oddíl C, vložka 00000\nDATUM VYSTAVÉNÍ DUZP DATUM SPLATNOSTI VARIABILNÍ SYMBOL UHRAZEÉNO\n1. 10. 2026 20, 9. 2026 4. 10. 2026 2026000238 1. 10. 2026\nPoložka Množství Cena za MJ bez DPH | Sazba DPH Celkem bez DPH\nKonzultace 11 hod 1 500,00 Kč 21 % 16 500,00 Kč\nUbytování účastníků školení 1 ks 24 234,00 Kč 12% 24 234,00 Kč\nREKAPITULACE DPH\nSazba Základ daně DPH Celkem\n21% 16 500,00 Kč 3 465,00 Kč 19 965,00 Kč\n12 % 24 234,00 Kč 2 908,08 Kč 27 142,08 Kč\nCelkem 40 734,00 Kč | 6373,08 Kč 47 107,08 Kč\n\nCelkem k úhradě 47 107,08 Kč\n"
+ },
+ {
+  "quality": "poor",
+  "invoice_number": "2025-000001",
+  "seconds": 1.13,
+  "outcomes": {
+   "supplier_name": "missing",
+   "supplier_company_id": "missing",
+   "supplier_vat_id": "missing",
+   "invoice_number": "correct",
+   "variable_symbol": "missing",
+   "issue_date": "missing",
+   "tax_point_date": "missing",
+   "due_date": "missing",
+   "vat_lines": "missing",
+   "total_gross_amount": "correct",
+   "currency": "correct"
+  },
+  "invoice": {
+   "supplier_name": null,
+   "supplier_company_id": null,
+   "supplier_vat_id": null,
+   "invoice_number": "2025-000001",
+   "variable_symbol": null,
+   "issue_date": null,
+   "tax_point_date": null,
+   "due_date": null,
+   "vat_lines": null,
+   "total_gross_amount": 4840000,
+   "currency": "CZK"
+  },
+  "vat_flags": [],
+  "identifier_flags": [],
+  "text": "Faktura - daňový doklad č. 2025-000001\n\nD03 omats\n\nVimrové dodpoděetad 619 E\n\nUkázkeů 1, BDO 00 VROe“ Wzormré 12. 000 01 PAklosov\n(ČO 604376 čo 123687\n\nDAC CINTŘAIE OČ CZI2M0607\n\nBandu let 1734941890806\n\nPOTS hák ou) O3 Pdtt LAMY zad 4 me + C>\n1. 8 7075 24. ©, 2075 p 22075 2024000001\nre 54 vé W ro1 1 000.66 Kč 7“ 43 GO DO KL\n\nPET E\nSatbe Záajea sarě Dm am\n\n18. 40000066 k 400.06 6é 48 406.00 Kč\nCelkem 4000000 Kč 8400.00 Kč a 400,00 Kč\n\nCelkem k úhradě 48 400,00 Kč\n"
+ },
+ {
+  "quality": "poor",
+  "invoice_number": "2025-000002",
+  "seconds": 1.04,
+  "outcomes": {
+   "supplier_name": "missing",
+   "supplier_company_id": "missing",
+   "supplier_vat_id": "missing",
+   "invoice_number": "missing",
+   "variable_symbol": "missing",
+   "issue_date": "missing",
+   "tax_point_date": "missing",
+   "due_date": "missing",
+   "vat_lines": "missing",
+   "total_gross_amount": "missing",
+   "currency": "correct"
+  },
+  "invoice": {
+   "supplier_name": null,
+   "supplier_company_id": null,
+   "supplier_vat_id": null,
+   "invoice_number": null,
+   "variable_symbol": null,
+   "issue_date": null,
+   "tax_point_date": null,
+   "due_date": null,
+   "vat_lines": null,
+   "total_gross_amount": null,
+   "currency": "CZK"
+  },
+  "vat_flags": [],
+  "identifier_flags": [],
+  "text": "a MR 0 s Mý pp m KUNÍ VĚ .\nahap vec yb\n\nDT 47\" a..\n\n12.205\n\nPolva\nGer:\n\nT ad\n12. 6. 2075\n\nMmadst\n\nk\n\nDobšké*t:\njaho\nkrátká £, 600 07 Vzorowce\nKO MM725\nbe bvý 400, I 4 ju l 0D pe n AJ O\nže. 4 207% 70700000) M 4 207\n6 000.60 Kč i“ 6 000.00 M4\nvýsapsT MI DP\n7“ 6 059.06 Kč 1 260,00 té 7 26000 uč\n\nCelkem + 000.00 Kč 1 260,00 Kč 7 160,00 Kč\n\nCelkom k úhradě 7 260,00 Kč\n"
+ },
+ {
+  "quality": "poor",
+  "invoice_number": "2026-000016",
+  "seconds": 1.2,
+  "outcomes": {
+   "supplier_name": "missing",
+   "supplier_company_id": "missing",
+   "supplier_vat_id": "wrong",
+   "invoice_number": "missing",
+   "variable_symbol": "missing",
+   "issue_date": "missing",
+   "tax_point_date": "missing",
+   "due_date": "missing",
+   "vat_lines": "missing",
+   "total_gross_amount": "correct",
+   "currency": "correct"
+  },
+  "invoice": {
+   "supplier_name": null,
+   "supplier_company_id": null,
+   "supplier_vat_id": "CZ21654326",
+   "invoice_number": null,
+   "variable_symbol": null,
+   "issue_date": null,
+   "tax_point_date": null,
+   "due_date": null,
+   "vat_lines": null,
+   "total_gross_amount": 2871292,
+   "currency": "CZK"
+  },
+  "vat_flags": [],
+  "identifier_flags": [
+   "DIČ CZ21654326 fails its check digit"
+  ],
+  "text": "vý K VT yh 9\n\nVymrová opdavatelvká s 10 STAVY MORAVA 85\n\nUkásovb 1, ODO 00 Vrorov Mekdražní A5, O0) 05 Přiladná Ve1\n(ČO 87634324 (ČO 129695\n\nDIČ CZ21654326 OČ CZ12I4S6\n\nKaráoem slet 1234471090800\n\ndy 9 P vyp Ozamůj po 16\nDoru m I V]\n\n(a. hk OvTe P Vas M0 6 „Ab D6,\n\nM. 2.20% 14. % 2026 74 220% 226000016 72 2 2076\nopt 1 hod 1 50000 8 mne 1 500.09 út\nUbyteední úLastrsíků Volené o 24 616.00 kf 12% 24 014,00 Kč\n\nPTE V há 8 oa\n\nz ssohétaz | (MiK00nž | 1200\n12“ Jojsn0kt M0\n\nCelk 29 516,00 Kč 3 196,42 Kč 28 712,92 M6\n\nCelkem k úhradě 28 712,92 Kč\n"
+ },
+ {
+  "quality": "poor",
+  "invoice_number": "2026-000036",
+  "seconds": 1.18,
+  "outcomes": {
+   "supplier_name": "missing",
+   "supplier_company_id": "missing",
+   "supplier_vat_id": "missing",
+   "invoice_number": "correct",
+   "variable_symbol": "missing",
+   "issue_date": "missing",
+   "tax_point_date": "missing",
+   "due_date": "missing",
+   "vat_lines": "missing",
+   "total_gross_amount": "correct",
+   "currency": "correct"
+  },
+  "invoice": {
+   "supplier_name": null,
+   "supplier_company_id": null,
+   "supplier_vat_id": null,
+   "invoice_number": "2026-000036",
+   "variable_symbol": null,
+   "issue_date": null,
+   "tax_point_date": null,
+   "due_date": null,
+   "vat_lines": null,
+   "total_gross_amount": 3599532,
+   "currency": "CZK"
+  },
+  "vat_flags": [],
+  "identifier_flags": [],
+  "text": "Faktura - daňový doklad č. 2026-000036\n\nO ký A 00\n\nvorowd ODdaratejská 11 © STAVĚT MORAVA 8%\n\nUkáznové 1, 000 00 Vzorov Náóražní 4), OLO 0% Příktaóné Vs\nIČO 8764376 CO 1245405\n\nO CZA1654326 O CIV\n\nBaniavní účet 324367800000\n\nz n 4 odvod k vyp otů ni PP\napp BA le 0 C\n\nB r 2 Je Dat 6 KŽÍOiTÍ 77 vadžíbů 6 YM\n\n* 1 026 6 1 2026 70 1 20% 402600006\n\nBor $ hod 1300.00 4 1% 7 3400 00 v\n\nUbytování úlastuků Hrolení l ts 24 036 00 Kl již“ 74 036.00 Kč\nArGAaTzáííž DP\n\"i 7 400,00 Kč 157900 4 9075.00 nč\n12“ 24 034,00 uč 2 884.22 Kč že 420.32 Kč\n\nCeliom J1 536,00 Kč 4 459.12 Kč 39 995.32 Kč\n\nCelkem k úhradě 35 995,32 Kč\n"
+ },
+ {
+  "quality": "poor",
+  "invoice_number": "2026-000120",
+  "seconds": 1.16,
+  "outcomes": {
+   "supplier_name": "missing",
+   "supplier_company_id": "missing",
+   "supplier_vat_id": "wrong",
+   "invoice_number": "correct",
+   "variable_symbol": "missing",
+   "issue_date": "missing",
+   "tax_point_date": "missing",
+   "due_date": "missing",
+   "vat_lines": "missing",
+   "total_gross_amount": "correct",
+   "currency": "correct"
+  },
+  "invoice": {
+   "supplier_name": null,
+   "supplier_company_id": null,
+   "supplier_vat_id": "CZ87644326",
+   "invoice_number": "2026-000120",
+   "variable_symbol": null,
+   "issue_date": null,
+   "tax_point_date": null,
+   "due_date": null,
+   "vat_lines": null,
+   "total_gross_amount": 4334940,
+   "currency": "CZK"
+  },
+  "vat_flags": [],
+  "identifier_flags": [
+   "DIČ CZ87644326 fails its check digit"
+  ],
+  "text": "Faktura - daňový doklad č. 2026-000120\n\nmtaa ti (há 4 FW:\n\nVrarová doámestmiýků 1 (0 kovváš a pym bo\n\nUkázkové 1. 900 00 Vrorsv Vzorová 12. 000 01 Přňtedov\nKCD 47643)6 (CO 12349687\n\nDIČ CZ87644326 OIC CILIMMKT\n\nBankovní účet 1234567800600\n\nP „vt meLe 24 stech oh dí R\n70 > 006 79 5 7026 17. * 20%% 2026000120\nKDS Hof 1 900,00 K4 7* 13 500,90 ul\n\nUbytování účasusků kkoierrí lh 24 120,09 vt 2 4 120.00 Mí\n\nRE KASSTLÁLÝ Hře\n\nPá 13 900.00 Kč 7810004 14 333.00 £č\n2“ 24 120,00 sč 2 894,40 Kč $? 014,40 62\n\nCelkem 37 620,00 Kč 5 729,40 Kč A7 340,40 KE\n\nCelkem k úhradě 43 349,40 Kč\n"
+ },
+ {
+  "quality": "poor",
+  "invoice_number": "2026-000183",
+  "seconds": 1.14,
+  "outcomes": {
+   "supplier_name": "missing",
+   "supplier_company_id": "missing",
+   "supplier_vat_id": "missing",
+   "invoice_number": "correct",
+   "variable_symbol": "missing",
+   "issue_date": "missing",
+   "tax_point_date": "missing",
+   "due_date": "missing",
+   "vat_lines": "missing",
+   "total_gross_amount": "correct",
+   "currency": "correct"
+  },
+  "invoice": {
+   "supplier_name": null,
+   "supplier_company_id": null,
+   "supplier_vat_id": null,
+   "invoice_number": "2026-000183",
+   "variable_symbol": null,
+   "issue_date": null,
+   "tax_point_date": null,
+   "due_date": null,
+   "vat_lines": null,
+   "total_gross_amount": 4160496,
+   "currency": "CZK"
+  },
+  "vat_flags": [],
+  "identifier_flags": [],
+  "text": "Faktura - daňový doklad č. 2026-000183\n\npoč bo\n\nDIČ CZST6MI6\n\nBaran el 3747800000\n\n\"ot\"\n\nZahradní 2, 00b 06 Ukáskové Lhota\n\nA > 00 o \"A těm wmpnt v\n\nP, o a vře p\n\nDálicé vyjžavt W Mě k\n\nji. 7, 2006 m. 7. 2020\naan\n\nUbytování ulasnků Protec\n\n(CO 45678901\nGAP (há T prd da bo VE yb\nhe £ 2026 z0160C018) $. 6 706\n\nBrod 1 509,0 2 \"2 12 000.06 u\n\ni s 34 16).00 K6 jz“ 24 1020988\n\nP (r\n\n21% 12 000.00 Kč 257000 Kč 14 520.00 Kč\nji“ 24 103.00 £č 2901. 06 K6 7) 084,06 08\n\nCetknm 36 183,90 Kč 4 421,96 Kč 41 604,6 Kč\n\nCelkem k úhradě 41 604,96 Kč\n"
+ },
+ {
+  "quality": "poor",
+  "invoice_number": "2026-000231",
+  "seconds": 1.14,
+  "outcomes": {
+   "supplier_name": "missing",
+   "supplier_company_id": "missing",
+   "supplier_vat_id": "missing",
+   "invoice_number": "correct",
+   "variable_symbol": "missing",
+   "issue_date": "missing",
+   "tax_point_date": "missing",
+   "due_date": "missing",
+   "vat_lines": "missing",
+   "total_gross_amount": "correct",
+   "currency": "correct"
+  },
+  "invoice": {
+   "supplier_name": null,
+   "supplier_company_id": null,
+   "supplier_vat_id": null,
+   "invoice_number": "2026-000231",
+   "variable_symbol": null,
+   "issue_date": null,
+   "tax_point_date": null,
+   "due_date": null,
+   "vat_lines": null,
+   "total_gross_amount": 5618768,
+   "currency": "CZK"
+  },
+  "vat_flags": [],
+  "identifier_flags": [],
+  "text": "Faktura - daňový doklad č. 2026-000231\n\nún MÍŘÍ a8Ý KAT\n\nVzorová Gxdaesteríká 13 ELEKTRO VZOKOVÁ UMOTA 619\názkaneů 1, VO 06 Veerov Aorarická JO. 000 04 Vzorové VMOtA\nČO 67454374 KO 6789017\n\nDAČ CZW654276 OK CZ96789017\n\nBariiovní účet 1224546700000\n\nvai vyjití u (P oa hit AM A121\" T\n75 4 2026 7.9 2076 6. 10 20%% 20)6000251\nah 16 nod 4 9006.00 \"č 7“ 74 000,00 KZ\n\nUbytoeání včastríká Huolevé jha P 12“ 24 2) 00 Kč\n\nkiajevík a tř DP\n\nji. zá ooo0Kž | HDO 2900 KÍ\n12 J42)h006E | ZMK6RKE 2707005\n\nCelkem 46 239,00 Kť 7 948,68 K6 54 387,68 Kč\n\nCelkem k úhradě 56 187,68 Kč\n"
+ },
+ {
+  "quality": "poor",
+  "invoice_number": "2026-000236",
+  "seconds": 1.21,
+  "outcomes": {
+   "supplier_name": "missing",
+   "supplier_company_id": "missing",
+   "supplier_vat_id": "missing",
+   "invoice_number": "correct",
+   "variable_symbol": "missing",
+   "issue_date": "missing",
+   "tax_point_date": "missing",
+   "due_date": "missing",
+   "vat_lines": "missing",
+   "total_gross_amount": "correct",
+   "currency": "correct"
+  },
+  "invoice": {
+   "supplier_name": null,
+   "supplier_company_id": null,
+   "supplier_vat_id": null,
+   "invoice_number": "2026-000236",
+   "variable_symbol": null,
+   "issue_date": null,
+   "tax_point_date": null,
+   "due_date": null,
+   "vat_lines": null,
+   "total_gross_amount": 3441216,
+   "currency": "CZK"
+  },
+  "vat_flags": [],
+  "identifier_flags": [],
+  "text": "Faktura - daňový doklad č. 2026-000236\n\n(Cana\n\nVzorové Oodresie 4 1!\nUkázkové 1. 000 00 V7orev\nČO 67654176\n\nDE CZ57644376\n\nBard učet 1.2 $854 7800800\n\nBoje 1 zk om drn i 9\n\nOrt -ME - ha W\n\nPad m0 VY iE,Ť*\n\n1 10, 2026 76.% 7626\n„ee :\n\ndoroste\n\nUvytavání účavtmánů Hskorí\n\noc nýt\nGlantry tomat\nZahuvání 2. 000 06 Ukátkavé eb\n(CO 45678001\nod bak 3 4 den ké 4 VČE ph AU\n12, 10. 2026 202600026 110, 2076\n\nahaé 1 500,00 K 1% | $o000Ké\nths Já 243,00 Z jak 44002\n\nCA APTT ÁK L ad\n\nn. a00n0048 1M OU\n12% Ja 2410042 | Z90RM6NE TT SDI6NE\n\nCelkem 30 243,00 K 4 169,16 Kč 34 412,46 Kč\n\nCelkem k úhradě 34 412,16 Kč\n"
+ },
+ {
+  "quality": "poor",
+  "invoice_number": "2026-000237",
+  "seconds": 1.22,
+  "outcomes": {
+   "supplier_name": "missing",
+   "supplier_company_id": "missing",
+   "supplier_vat_id": "missing",
+   "invoice_number": "correct",
+   "variable_symbol": "missing",
+   "issue_date": "missing",
+   "tax_point_date": "missing",
+   "due_date": "missing",
+   "vat_lines": "missing",
+   "total_gross_amount": "correct",
+   "currency": "correct"
+  },
+  "invoice": {
+   "supplier_name": null,
+   "supplier_company_id": null,
+   "supplier_vat_id": null,
+   "invoice_number": "2026-000237",
+   "variable_symbol": null,
+   "issue_date": null,
+   "tax_point_date": null,
+   "due_date": null,
+   "vat_lines": null,
+   "total_gross_amount": 5255544,
+   "currency": "CZK"
+  },
+  "vat_flags": [],
+  "identifier_flags": [],
+  "text": "Faktura - daňový doklad č. 2026-000237\n\n(vt) OD Be\nBadareuteiká 970 Ovoť th 5v4 jara\nWtázkieh 1. 000 00 Vzerov Krátká B, 000 02 Vytroet\nČO 87654326 ČO 3461005\nDaČ CZ01654326\ntaravvs ve 12 M6 78900\n\nld úd „ia denní am Pee\nné mě duo FM\n\nté\" JM vrhtéví © 6* Lafa sa tntyšř FA ač kl VP\n\n1 16 2026 11 % 2026 ? 16 2026 2024000217\n\nRoe MA 14 hod 1 909,00 K4 21“ 21 090,00 Vč\nUtrytupeání ubastníků Uobem iha 24 230000 12“ 24 73) 00\n\nejhov? jz. 441 SPS\n\nP ja 00800Kč — 441M0DK 2941007\n12% Ja 2370084 290RM6E 2700\n\nCelkem 45 237,00 KZ 7 328,44 Kč 52 558,44 Kč\n\nCelkem k úhradě 52 555,44 Kč\n"
+ },
+ {
+  "quality": "poor",
+  "invoice_number": "2026-000238",
+  "seconds": 1.52,
+  "outcomes": {
+   "supplier_name": "missing",
+   "supplier_company_id": "missing",
+   "supplier_vat_id": "missing",
+   "invoice_number": "correct",
+   "variable_symbol": "missing",
+   "issue_date": "missing",
+   "tax_point_date": "missing",
+   "due_date": "missing",
+   "vat_lines": "missing",
+   "total_gross_amount": "correct",
+   "currency": "correct"
+  },
+  "invoice": {
+   "supplier_name": null,
+   "supplier_company_id": null,
+   "supplier_vat_id": null,
+   "invoice_number": "2026-000238",
+   "variable_symbol": null,
+   "issue_date": null,
+   "tax_point_date": null,
+   "due_date": null,
+   "vat_lines": null,
+   "total_gross_amount": 4710708,
+   "currency": "CZK"
+  },
+  "vat_flags": [],
+  "identifier_flags": [],
+  "text": "Faktura - daňový doklad č. 2026-000238\n\ntomas? SDR 477\n\nrorvvá Ovásemiená k 6D ELEKTRO VZOBOVÁ UMOTA 1.1.5\n\nUhástaveh 1, ODO 00 VTOrov Aeneriché 30. 000 04 Vzorové LMECA\n\nČO 8054736 CO 5476001)\n\nDC CZKT65437$ DC CT5ÝTGPT\n\nBeriabení účet 1234567840806\n\nK ana zaiplřáky vmánýmm An pe VO\n\nrc v) 4 MA u\n\nDá v) OC? ná GPA T\" V L WeavB\"\n\n1, 10, 7076 20. 6, 2026 4, 36 2036 70206059218 1. 16 20)6\nBom 6 11 bod 1 500,00 K4 7% 16 5490.08 \"4\nUbytování účastníků Smotery kk 74 2)M400 Kč již Ja 724 00 Kč\n\nzna DÍL PP\n\nzi 16 505.00 Kč 346400 Kč 14 463.00 2č\n12“ 24 734,00 £č 2 908,08 Ki JI 142,08 66\n\nCelkem 40 734,00 Kč 6 373,08 Kč 47 107,06 \"4\n\nCelkem k úhradě 47 107,08 Kč\n"
+ }
+]

@@ -1,0 +1,69 @@
+[
+ {
+  "quality": "clean",
+  "invoice_number": "2026-000236",
+  "seconds": 657.4,
+  "error": null,
+  "outcomes": {
+   "supplier_name": "correct",
+   "supplier_company_id": "correct",
+   "supplier_vat_id": "correct",
+   "invoice_number": "correct",
+   "variable_symbol": "correct",
+   "issue_date": "wrong",
+   "tax_point_date": "wrong",
+   "due_date": "wrong",
+   "vat_lines": "correct",
+   "total_gross_amount": "wrong",
+   "currency": "wrong"
+  },
+  "invoice": {
+   "supplier_name": "Vzorová dodavatelská s.r.o.",
+   "supplier_company_id": "87654326",
+   "supplier_vat_id": "CZ87654326",
+   "invoice_number": "2026-000236",
+   "variable_symbol": "2026000236",
+   "issue_date": "1010-01-20",
+   "tax_point_date": "1010-10-13",
+   "due_date": "1010-10-13",
+   "vat_lines": [
+    {
+     "vat_rate_percent": 21,
+     "net_amount": 600000,
+     "vat_amount": 126000
+    },
+    {
+     "vat_rate_percent": 12,
+     "net_amount": 2424300,
+     "vat_amount": 290916
+    }
+   ],
+   "total_gross_amount": 3024300,
+   "currency": "Kč"
+  },
+  "vat_flags": [
+   "total 3024300 is not 3441216, the sum of the VAT lines"
+  ],
+  "identifier_flags": [],
+  "output_tokens": 3682,
+  "thinking_characters": 7128
+ },
+ {
+  "quality": "harsh",
+  "invoice_number": "2026-000236",
+  "seconds": 1218.3,
+  "error": "1 validation error for Invoice\n  Invalid JSON: EOF while parsing a value at line 1 column 0 [type=json_invalid, input_value='', input_type=str]\n    For further information visit https://errors.pydantic.dev/2.13/v/json_invalid",
+  "raw": "",
+  "output_tokens": 7039,
+  "thinking_characters": 13302
+ },
+ {
+  "quality": "mild",
+  "invoice_number": "2026-000236",
+  "seconds": 1286.4,
+  "error": "1 validation error for Invoice\n  Invalid JSON: EOF while parsing a value at line 1 column 0 [type=json_invalid, input_value='', input_type=str]\n    For further information visit https://errors.pydantic.dev/2.13/v/json_invalid",
+  "raw": "",
+  "output_tokens": 7039,
+  "thinking_characters": 13585
+ }
+]
