@@ -1,0 +1,21 @@
+services:
+    app:
+        build: .
+        user: '${HOST_UID:-1000}:${HOST_GID:-1000}'
+        env_file:
+            - path: .env
+              required: false
+        volumes:
+            - .:/app
+        ports:
+            - '127.0.0.1:${APP_PORT:-8083}:8000'
+        command: uvicorn invoice_extraction.api:app --host 0.0.0.0 --port 8000
+
+    test-set:
+        build: .
+        profiles: [tools]
+        user: '${HOST_UID:-1000}:${HOST_GID:-1000}'
+        network_mode: host
+        volumes:
+            - .:/app
+        command: python tools/build_test_set.py
