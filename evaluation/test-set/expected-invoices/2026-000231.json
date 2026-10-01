@@ -1,0 +1,24 @@
+{
+  "supplier_name": "Vzorová dodavatelská s.r.o.",
+  "supplier_company_id": "87654326",
+  "supplier_vat_id": "CZ87654326",
+  "invoice_number": "2026-000231",
+  "variable_symbol": "2026000231",
+  "issue_date": "2026-09-25",
+  "tax_point_date": "2026-09-25",
+  "due_date": "2026-10-09",
+  "vat_lines": [
+    {
+      "vat_rate_percent": 21,
+      "net_amount": 2400000,
+      "vat_amount": 504000
+    },
+    {
+      "vat_rate_percent": 12,
+      "net_amount": 2423900,
+      "vat_amount": 290868
+    }
+  ],
+  "total_gross_amount": 5618768,
+  "currency": "CZK"
+}
